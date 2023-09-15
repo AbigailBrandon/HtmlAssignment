@@ -142,7 +142,7 @@ height: auto;
 .hero-text a{
 display: inline-block;
 color: white;
-background: #4d9559; /* change color */
+background: #4d9559; 
 border: 1px solid transparent;
 padding: 12px 30px;    /* make it look like buttons */
 line-height: 1.4;
@@ -320,10 +320,10 @@ section{
   padding: 50px 20px;
   transition: all .55s ease;
 }
-.navlist a{  /* makes the items in menu spaced properly */
+.navlist a{  /* items in menu spacing */
   margin-left: 0;
   display: block;
-  margin: 24px 0; /* change px value if you add more menu items for spacing properly */
+  margin: 24px 0; /* change px value if you add more menu items for spacing */
 }
 .navlist.open{
   right: 0;
