@@ -240,6 +240,9 @@ background-color: #EFFFD2;
   background-color: #80B327;
   color: black;
 }
+.container-bg { /* background for about table container*/
+  background-color: #f8f8f8; 
+}
 
 
 
